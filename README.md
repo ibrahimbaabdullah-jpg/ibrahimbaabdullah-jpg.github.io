@@ -8,7 +8,7 @@ https://ibrahimbaabdullah-jpg.github.io/
 ## Structure
 - `index.html`: academic biography, research, outputs, education and experience
 - `projects.html`: research and educational project descriptions and public links
-- `assets/style.css`: responsive, accessible styling
+- `assets/academic.css`: responsive, accessible styling
 - `assets/Ibrahim-Baabdullah-Public-CV.pdf`: public CV with approved contact details
 - `assets/favicon.svg`: site monogram
 
